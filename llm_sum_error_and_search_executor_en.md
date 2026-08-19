@@ -1,4 +1,4 @@
-[한국어](llm_sum_error_and_search_executor.md)
+[한국어](AI가_산수도_못합니다.md)
 
 # I Asked an AI to Do Some Addition—and Ended Up Rebuilding the Search API
 
