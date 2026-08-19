@@ -47,6 +47,8 @@ My first idea was, of course, to fix the prompt. I added instructions such as "A
 
 So I tried something else. I happened to have Qwen3 14B running on another machine, and I thought: what if I let Qwen3 14B verify the result produced by Qwen3.6 27B? I sent it both the original data and Qwen3.6's answer, with a prompt telling it to check the sum and return a corrected result if the total was wrong.
 
+**The real harness is chaining AIs together!!**
+
 It sounded reasonable enough. If the first LLM made a mistake, perhaps a second LLM calculating the numbers independently could catch it. In effect, I had added another model as a Reviewer or Validator. Surely, I thought, double-checking simple addition twice should improve things.
 
 **Nope. That one did the same thing.**
