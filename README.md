@@ -3,7 +3,7 @@
 > Notes and lessons from building an AI workflow platform
 > for real-world administrative and educational work.
 
-[한국어 버전](history_of_aitool.md)
+[한국어 버전](AI워크플로우서버_구축_후기.md)
 
 
 
